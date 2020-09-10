@@ -59,8 +59,5 @@ V 1.0.0 完成以下目标：
 
 本项目基于或参考以下项目：
 
-1. litemall
-   项目介绍：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
-   项目参考:
-   1. litemall项目数据库基于nideshop-mini-program项目数据库；
-   2. litemall项目的litemall-wx模块基于nideshop-mini-program开发。
+1. [litemall 又一个小商场系统。 ](https://github.com/linlinjava/litemall)
+> 项目介绍：litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
